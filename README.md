@@ -1,2 +1,1 @@
-# create-tag-action
-Create Tag
+# Create Tag Action
